@@ -1,1 +1,1 @@
-https://my.scalingo.com/deploy?source=https://github.com/hackmdio/codimd#develop
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/tArogoD/sc#main)
