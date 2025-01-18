@@ -1,18 +1,12 @@
 {
-  "name": "nodejsx",
+  "name": "A",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "dependencies": {
-    "http-proxy": "latest",
-    "ws": "^8.13.0",
-    "axios": "^1.6.2"
-  },
-  "engines": {
-    "node": ">=16"
+    "axios": "^1.6.7",
+    "extract-zip": "^2.0.1"
   }
-}
+} 
