@@ -1,0 +1,24 @@
+{
+  "name": "scag",
+  "description": "scag",
+  "logo": "https://scalingo.com/logo.svg",
+  "repository": "https://github.com/seav1/scag",
+  "website": "https://scalingo.com",
+  "env": {
+    "NZ_SERVER": {
+      "description": "nz",
+      "value": "x.x.x"
+    },    
+    "NZ_KEY": {
+      "description": "nz key",
+      "value": "xx"
+    },
+    "AGO_AUTH": {
+      "description": "ago key",
+      "value": "xx"
+    }    
+  },  
+  "addons": [
+    {"plan": "tcp-gateway:tcplb"}
+  ]  
+}
