@@ -1,8 +1,8 @@
 {
-  "name": "scag",
-  "description": "scag",
+  "name": "sc",
+  "description": "sc",
   "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/seav1/scag",
+  "repository": "https://github.com/tArogoD/sc",
   "website": "https://scalingo.com",
   "env": {
     "NZ_SERVER": {
