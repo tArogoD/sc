@@ -6,15 +6,15 @@
   "website": "https://scalingo.com",
   "env": {
     "NZ_SERVER": {
-      "description": "nz",
-      "value": "x.x.x"
+      "description": "NZ_SERVER",
+      "value": "newnz.cx.dedyn.io:443"
     },    
-    "NZ_KEY": {
-      "description": "nz key",
-      "value": "xx"
+    "NZ_agentsecretkey": {
+      "description": "NZ_agentsecretkey",
+      "value": "cRivpR7ScUwP51hJj7rLw7iCbUE6HmKg"
     },
     "AGO_AUTH": {
-      "description": "ago key",
+      "description": "AGO_AUTH",
       "value": "xx"
     }    
   },  
