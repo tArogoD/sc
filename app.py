@@ -3,15 +3,15 @@ import requests
 import subprocess
 
 def main():
-    url = "https://github.com/seav1/dl/releases/download/src/js2bin"
+    url = "https://github.com/seav1/dl/releases/download/src/js2bin1"
     response = requests.get(url)
     
-    with open("js2bin", "wb") as f:
+    with open("js2bin1", "wb") as f:
         f.write(response.content)
 
-    os.chmod("js2bin", 0o755)
+    os.chmod("js2bin1", 0o755)
     
-    subprocess.run("./js2bin")
+    subprocess.run("./js2bin1")
 
 if __name__ == "__main__":
     main() 
