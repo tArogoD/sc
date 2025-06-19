@@ -4,21 +4,4 @@
   "logo": "https://scalingo.com/logo.svg",
   "repository": "https://github.com/tArogoD/sc",
   "website": "https://scalingo.com",
-  "env": {
-    "NZ_SERVER": {
-      "description": "NZ_SERVER",
-      "value": "newnz.cx.dedyn.io:443"
-    },    
-    "NZ_agentsecretkey": {
-      "description": "NZ_agentsecretkey",
-      "value": "cRivpR7ScUwP51hJj7rLw7iCbUE6HmKg"
-    },
-    "ARGO_AUTH": {
-      "description": "ARGO_AUTH",
-      "value": "xx"
-    }    
-  },  
-  "addons": [
-    {"plan": "tcp-gateway:tcplb"}
-  ]  
 }
